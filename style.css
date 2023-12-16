@@ -24,3 +24,6 @@ img {
     border: 2.5px solid black;
 }
 
+p .habits {
+    background-color: green;
+}
