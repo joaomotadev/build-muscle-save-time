@@ -1,20 +1,39 @@
 .button {
     font-size: 30px;
+    color: black;
+    background-color:rgb(255, 255, 255);
 } 
 
 h1 {
     text-align: center;
-    background-color:lightblue;
-    border: 1px solid;
+    color: black;
 }
 
 h2 {
     text-align: center;
     background-color:lightblue;
-    border: 1px solid;
+    color: black;
 }
 
-.imgCenter {
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.img.buildmusclesavetime {
+    width: 400px;
+    height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -22,13 +41,11 @@ h2 {
 
 p {
     text-align: center;
+    color: black;
     
 }
 
-img {
-    border: 3px solid black;
-}
-
-p .habits {
-    background-color: green;
+body {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
