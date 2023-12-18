@@ -4,10 +4,14 @@
 
 h1 {
     text-align: center;
+    background-color:lightblue;
+    border: 1px solid;
 }
 
 h2 {
     text-align: center;
+    background-color:lightblue;
+    border: 1px solid;
 }
 
 .imgCenter {
@@ -18,10 +22,11 @@ h2 {
 
 p {
     text-align: center;
+    
 }
 
 img {
-    border: 2.5px solid black;
+    border: 3px solid black;
 }
 
 p .habits {
