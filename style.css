@@ -13,20 +13,35 @@ h1 {
 
 h2 {
     text-align: center;
-    background-color:lightblue;
+    background-color:rgb(98, 195, 228);
     color: black;
 }
 
+div {
+    text-align: center; /* Center the content horizontally */
+}
+
 h3 {
-    text-align: center;
+    display: inline-block; /* Behave like an inline element with block-level properties */
+    background-color: lightblue;
+    padding: 2.5px; /* Add padding for better visibility */
+    margin: 0;
 }
 
 h4 {
     text-align: center;
+    text-decoration: underline;
 }
 
 ol {
     text-align: center;
+    list-style-position: inside;
+    padding-left: 0; /* Remove default padding to ensure proper centering */
+}
+
+li {
+    margin: 15px 25px 15px 25px;
+    border-bottom: dotted 1px;
 }
 
 div {
@@ -44,6 +59,9 @@ div {
 p {
     text-align: center;
     color: black;
+    margin-left: 40px;
+    margin-right: 40px;
+    
     
 }
 
