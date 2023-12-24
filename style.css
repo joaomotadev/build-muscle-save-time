@@ -42,6 +42,7 @@ ol {
 li {
     margin: 15px 25px 15px 25px;
     border-bottom: dotted 1px;
+    padding-bottom: 15px;
 }
 
 div {
